@@ -15,5 +15,6 @@ A simple console calculator written in Python.
 ## How to run
 ```bash
 python calculator.py
+```
 ## Author
 Sergey — beginner Python and C++ developer
